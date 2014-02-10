@@ -1,0 +1,30 @@
+﻿Build started 2014-01-22 22:10:08.
+     1>Project "D:\projekty\praca magisterska\visual studio\praca magisterska\praca magisterska\praca magisterska.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Data\File_tsp.cpp Data\Node\Node_coord_factory.cpp Data\Node\Node_coord_two_coords.cpp mai.cpp
+         File_tsp.cpp
+         Generating Code...
+         Compiling...
+         mai.cpp
+         Node_coord_two_coords.cpp
+         Node_coord_factory.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\projekty\praca magisterska\visual studio\praca magisterska\Debug\praca magisterska.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\projekty\praca magisterska\visual studio\praca magisterska\Debug\praca magisterska.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\projekty\praca magisterska\visual studio\praca magisterska\Debug\praca magisterska.lib" /MACHINE:X86 Debug\Matrix.obj
+         Debug\File_tsp.obj
+         Debug\Display_data_type.obj
+         Debug\Edge_data_format.obj
+         Debug\Edge_weight_format.obj
+         Debug\Edge_weight_type.obj
+         Debug\Node_coord_type.obj
+         Debug\Type.obj
+         Debug\Node_coord_factory.obj
+         Debug\Node_coord_two_coords.obj
+         Debug\Vrp_Paths.obj
+         Debug\mai.obj
+         praca magisterska.vcxproj -> D:\projekty\praca magisterska\visual studio\praca magisterska\Debug\praca magisterska.exe
+     1>Done Building Project "D:\projekty\praca magisterska\visual studio\praca magisterska\praca magisterska\praca magisterska.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.37
